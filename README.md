@@ -1,7 +1,7 @@
 # Portscan
 Portscan with python
 
-#How Use
+# How Use
 
 git clone https://github.com/SNISS/Portscan/
 
